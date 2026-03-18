@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhijeetkumar78/abhijeetkumar78/main/header_banner.png" alt="Header Banner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bcd4,100:0d1117&height=200&section=header&text=Abhijeet%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Learner&descAlignY=58&descSize=18&animation=fadeIn&descColor=00bcd4" width="100%" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abhijeet+Kumar!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1;Continuous+Learner+%F0%9F%93%9A" alt="Typing SVG" />
@@ -173,9 +171,7 @@ const abhijeet = {
   <img src="https://raw.githubusercontent.com/abhijeetkumar78/abhijeetkumar78/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhijeetkumar78/abhijeetkumar78/main/footer_banner.png" alt="Footer Banner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bcd4,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together%20%F0%9F%9A%80&fontSize=16&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%" />
 
 <p align="center">
   <i>⭐ "Code is like humor. When you have to explain it, it's bad." – Cory House ⭐</i>
