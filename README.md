@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhijeetkumar78/abhijeetkumar78/master/header_banner.png" alt="Header Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/abhijeetkumar78/abhijeetkumar78/master/header_banner.png" alt="Header Banner" />
 </p>
 
 <h1 align="center">
@@ -174,7 +174,7 @@ const abhijeet = {
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhijeetkumar78/abhijeetkumar78/master/footer_banner.png" alt="Footer Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/abhijeetkumar78/abhijeetkumar78/master/footer_banner.png" alt="Footer Banner" />
 </p>
 
 <p align="center">
